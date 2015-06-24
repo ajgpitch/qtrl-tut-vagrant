@@ -22,10 +22,10 @@ cd qutip
 
 python setup.py install
 
-cd
+cd ..
 
 git clone https://github.com/ajgpitch/qtrl-tutorial.git
 
-cd qtrl-tutorial
+
 
 
